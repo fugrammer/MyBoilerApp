@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "899445590125",
+    "firebase_url": "https://fcmdemo-7132f.firebaseio.com",
+    "project_id": "fcmdemo-7132f",
+    "storage_bucket": "fcmdemo-7132f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899445590125:android:b04b5be41207a3f4",
+        "android_client_info": {
+          "package_name": "com.example.myboilerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899445590125-bocjctksniud3ud54din7ciblo28p767.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDukkCqA62PfEVTzkinYsI1NgjwnE4tPJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899445590125:android:fe7f5be0ab4168a9",
+        "android_client_info": {
+          "package_name": "com.example.thamt.google_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899445590125-bocjctksniud3ud54din7ciblo28p767.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDukkCqA62PfEVTzkinYsI1NgjwnE4tPJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
